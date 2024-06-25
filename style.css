@@ -60,7 +60,7 @@ h3{
     justify-content: center;
     align-items: center;
     background-color: black;
-    visibility: hidden;
+    visibility:hidden;
     opacity: 0.9;
 }
 
@@ -84,6 +84,13 @@ h3{
 
 a{
     color: white;
+}
+
+.box{
+    font-size: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 @media (max-width:600px){
